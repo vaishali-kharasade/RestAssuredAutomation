@@ -1,0 +1,6 @@
+2024-10-16 17:37:03 [main] INFO  api.tests.UserTests - This is test to create the user
+2024-10-16 17:37:05 [main] INFO  api.tests.UserTests - User is created successfully
+2024-10-18 14:10:46 [main] INFO  api.tests.UserTests - This is test to create the user
+2024-10-18 14:10:49 [main] INFO  api.tests.UserTests - User is created successfully
+2024-10-18 14:25:31 [main] INFO  api.tests.UserTests - This is test to create the user
+2024-10-18 14:25:35 [main] INFO  api.tests.UserTests - User is created successfully

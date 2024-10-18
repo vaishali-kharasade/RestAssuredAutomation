@@ -1,0 +1,24 @@
+{
+"UserData":[
+		{
+		    "id": 1513608173,
+		    "username": "erica.harvey",
+		    "firstName": "Clarence",
+		    "lastName": "Morissette",
+		    "email": "zana.heathcote@hotmail.com",
+		    "password": "h8ozcy1x7vvy7e",
+		    "phone": "773-665-2318",
+		    "userStatus": 0
+		},
+		{
+			"id": 1513608174,
+		    "username": "test.user",
+		    "firstName": "Rayford",
+		    "lastName": "Reichert",
+		    "email": "test.user@hotmail.com",
+		    "password": "h8ozcy1x7vv6ytr",
+		    "phone": "773-665-2318",
+		    "userStatus": 0
+		}
+	]
+}
