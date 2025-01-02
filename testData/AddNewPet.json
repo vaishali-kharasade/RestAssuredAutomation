@@ -1,0 +1,63 @@
+{
+   "PetData":[
+      {
+         "id":103,
+         "category":{
+            "id":1,
+            "name":"Dog"
+         },
+         "name":"Bruno",
+         "photoUrls":[
+            "http://example.com/photos/buddy1.jpg"
+         ],
+         "tags":[
+            {
+               "id":4,
+               "name":"aggressive"
+            }
+         ],
+         "status":"available"
+      },
+      {
+    	"id": 101,
+    	"name": "Buddy",
+    	"category": {
+        	"id": 1,
+        	"name": "Dog"
+   		},
+    	"photoUrls": [
+        	"http://example.com/photos/buddy1.jpg",
+        	"http://example.com/photos/buddy2.jpg"
+    	],
+    	"tags": [
+        	{
+            	"id": 1,
+            	"name": "friendly"
+        	},
+        	{
+            	"id": 2,
+            	"name": "trained"
+        	}
+	    	],
+	    	"status": "available"
+	},
+	{
+	    "id": 102,
+	    "name": "Whiskers",
+	    "category": {
+	        "id": 2,
+	        "name": "Cat"
+	    },
+	    "photoUrls": [
+	        "http://example.com/photos/whiskers1.jpg"
+	    ],
+	    "tags": [
+	        {
+	            "id": 3,
+	            "name": "fluffy"
+	        }
+	    ],
+    "status": "pending"
+}
+   ]
+}
